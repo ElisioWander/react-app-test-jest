@@ -42,10 +42,15 @@ localhost:5173
 ## Autor
 ### 👤 Elisio Wander
 
-- Site[elisiowander.vercel.app](https://elisiowander.vercel.app)
+- Site: [elisiowander.vercel.app](https://elisiowander.vercel.app)
 - Linkedin: [@elisioWander](https://www.linkedin.com/in/elisio-wander-b88b69136/)
 - github: [@elisioWander](https://github.com/ElisioWander)
 
 ---
+
+## 📝 Licença
+Copyright © 2020 [@ElisioWander](https://github.com/ElisioWander/react-app-test-jest/blob/main/LICENSE)
+
+Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
 
 ### Desenvolvido 💜 by Elisio Wander
